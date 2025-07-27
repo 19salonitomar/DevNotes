@@ -7,6 +7,9 @@
 </p>
 
 <p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" width="100" alt="Notebook Icon">
+  <img src="https://cdn-icons-png.flaticon.com/512/4151/4151646.png" width="100" alt="Cute Developer Icon">
+</p>
   <img src="https://cdn-icons-png.flaticon.com/512/2983/2983797.png" width="150" alt="Notes logo">
 </p>
 
@@ -22,14 +25,14 @@ Welcome to **DevNote** — a personal knowledge vault to store and share all ess
 
 ### 🧾 Topics Covered
 
-| Language / Tech | Status | Format |
-|-----------------|--------|--------|
-| 🐍 Python         ✅ Completed 
-| 🐘 SQL            ✅ Completed 
-| ⚛️ React          🔄 In Progress 
-| ☕ Java           🔄 In Progress 
-| 🟨 JavaScript     ✅ Completed 
-| 🍃 MongoDB        🔄 Updating 
+| Language  | Status 
+|-----------------|--------
+| 🐍 Python      |  ✅ Completed 
+| 🐘 SQL         |   ✅ Completed 
+| ⚛️ React       |   🔄 In Progress 
+| ☕ Java        |   🔄 In Progress 
+| 🟨 JavaScript  |   ✅ Completed 
+| 🍃 MongoDB     |  🔄 Updating 
 
 ---
 
@@ -37,7 +40,7 @@ Welcome to **DevNote** — a personal knowledge vault to store and share all ess
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/devnote.git
+   git clone https://github.com/19salonitomar/devnote.git
 
 ### 📌 Contribution
 - Have better notes or want to collaborate? Feel free to open a PR or issue!
@@ -45,9 +48,9 @@ Welcome to **DevNote** — a personal knowledge vault to store and share all ess
 ### 🙌 Support & Connect
 If you find this helpful, consider:
 
-## ⭐ Starring the repo
-## 🔔 Watching for updates
-## ☕ Buying me a coffee (optional)
+#### ⭐ Starring the repo
+#### 🔔 Watching for updates
+#### ☕ Buying me a coffee (optional)
 
-<p align="center"> <img src="https://img.shields.io/badge/Made%20with-Love-red?style=flat-square" /> </p> ```
+<p align="center"> <img src="https://img.shields.io/badge/Made%20with-Love-red?style=flat-square" /> </p> 
 
