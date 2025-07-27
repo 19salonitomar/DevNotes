@@ -7,9 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" width="100" alt="Notebook Icon">
-  <img src="https://cdn-icons-png.flaticon.com/512/4151/4151646.png" width="100" alt="Cute Developer Icon">
-</p>
   <img src="https://cdn-icons-png.flaticon.com/512/2983/2983797.png" width="150" alt="Notes logo">
 </p>
 
@@ -51,6 +48,8 @@ If you find this helpful, consider:
 #### ⭐ Starring the repo
 #### 🔔 Watching for updates
 #### ☕ Buying me a coffee (optional)
+
+
 
 <p align="center"> <img src="https://img.shields.io/badge/Made%20with-Love-red?style=flat-square" /> </p> 
 
